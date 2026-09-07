@@ -1,0 +1,25 @@
+body{
+	msrgin: 0;
+    background-color: #f5f1e8;
+    color:#2b2118;
+    font-family:arial, sans-serif;
+    text-align: center;
+    }
+    
+h1 {
+    margin-top: 80px;
+    font-size: 48px;
+    letter-spacing:3px;
+    }
+    
+h2 {
+	margin-top:50px;
+    font-size:28px;
+    }
+    
+    p {
+    font-size: 18px;
+    line-height: 1.8px;
+    }
+    
+    
